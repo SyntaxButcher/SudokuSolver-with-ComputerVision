@@ -1,6 +1,6 @@
 # SudokuSolver with ComputerVision
  
-**Objective:**
+##Objective:##
 
 Develop a computer program that can detect Sudoku puzzles from images and solve them.
 
